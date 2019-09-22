@@ -1,0 +1,7 @@
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1080MaiorePosicao\bin\Debug\URI1080MaiorePosicao.exe.config
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1080MaiorePosicao\bin\Debug\URI1080MaiorePosicao.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1080MaiorePosicao\bin\Debug\URI1080MaiorePosicao.pdb
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1080MaiorePosicao\obj\Debug\URI1080MaiorePosicao.csprojAssemblyReference.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1080MaiorePosicao\obj\Debug\URI1080MaiorePosicao.csproj.CoreCompileInputs.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1080MaiorePosicao\obj\Debug\URI1080MaiorePosicao.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1080MaiorePosicao\obj\Debug\URI1080MaiorePosicao.pdb

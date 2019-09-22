@@ -1,0 +1,6 @@
+E:\Dados Pessoais\Desktop\HackerRank\Teste06\Escadaria\Escadaria\bin\Debug\Escadaria.exe.config
+E:\Dados Pessoais\Desktop\HackerRank\Teste06\Escadaria\Escadaria\bin\Debug\Escadaria.exe
+E:\Dados Pessoais\Desktop\HackerRank\Teste06\Escadaria\Escadaria\bin\Debug\Escadaria.pdb
+E:\Dados Pessoais\Desktop\HackerRank\Teste06\Escadaria\Escadaria\obj\Debug\Escadaria.csproj.CoreCompileInputs.cache
+E:\Dados Pessoais\Desktop\HackerRank\Teste06\Escadaria\Escadaria\obj\Debug\Escadaria.exe
+E:\Dados Pessoais\Desktop\HackerRank\Teste06\Escadaria\Escadaria\obj\Debug\Escadaria.pdb

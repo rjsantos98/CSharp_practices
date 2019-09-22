@@ -1,0 +1,13 @@
+C:\Users\Junior Santos\source\repos\URI1059NumerosPares\bin\Debug\URI1059NumerosPares.exe.config
+C:\Users\Junior Santos\source\repos\URI1059NumerosPares\bin\Debug\URI1059NumerosPares.exe
+C:\Users\Junior Santos\source\repos\URI1059NumerosPares\bin\Debug\URI1059NumerosPares.pdb
+C:\Users\Junior Santos\source\repos\URI1059NumerosPares\obj\Debug\URI1059NumerosPares.csproj.CoreCompileInputs.cache
+C:\Users\Junior Santos\source\repos\URI1059NumerosPares\obj\Debug\URI1059NumerosPares.exe
+C:\Users\Junior Santos\source\repos\URI1059NumerosPares\obj\Debug\URI1059NumerosPares.pdb
+E:\Dados Pessoais\Desktop\Udemy\C# Logica de Programação\Exercicios Extras\1059\bin\Debug\URI1059NumerosPares.exe.config
+E:\Dados Pessoais\Desktop\Udemy\C# Logica de Programação\Exercicios Extras\1059\bin\Debug\URI1059NumerosPares.exe
+E:\Dados Pessoais\Desktop\Udemy\C# Logica de Programação\Exercicios Extras\1059\bin\Debug\URI1059NumerosPares.pdb
+E:\Dados Pessoais\Desktop\Udemy\C# Logica de Programação\Exercicios Extras\1059\obj\Debug\URI1059NumerosPares.csprojAssemblyReference.cache
+E:\Dados Pessoais\Desktop\Udemy\C# Logica de Programação\Exercicios Extras\1059\obj\Debug\URI1059NumerosPares.csproj.CoreCompileInputs.cache
+E:\Dados Pessoais\Desktop\Udemy\C# Logica de Programação\Exercicios Extras\1059\obj\Debug\URI1059NumerosPares.exe
+E:\Dados Pessoais\Desktop\Udemy\C# Logica de Programação\Exercicios Extras\1059\obj\Debug\URI1059NumerosPares.pdb

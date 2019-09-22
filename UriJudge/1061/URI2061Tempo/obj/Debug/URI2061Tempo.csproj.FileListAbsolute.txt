@@ -1,0 +1,14 @@
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI2061Tempo\URI2061Tempo\bin\Debug\URI2061Tempo.exe.config
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI2061Tempo\URI2061Tempo\bin\Debug\URI2061Tempo.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI2061Tempo\URI2061Tempo\bin\Debug\URI2061Tempo.pdb
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI2061Tempo\URI2061Tempo\obj\Debug\URI2061Tempo.csproj.CoreCompileInputs.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI2061Tempo\URI2061Tempo\obj\Debug\URI2061Tempo.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI2061Tempo\URI2061Tempo\obj\Debug\URI2061Tempo.pdb
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI2061Tempo\URI2061Tempo\obj\Debug\URI2061Tempo.csprojAssemblyReference.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3 - Estrutura Sequencial\Excercio\URI2061Tempo\URI2061Tempo\bin\Debug\URI2061Tempo.exe.config
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3 - Estrutura Sequencial\Excercio\URI2061Tempo\URI2061Tempo\bin\Debug\URI2061Tempo.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3 - Estrutura Sequencial\Excercio\URI2061Tempo\URI2061Tempo\bin\Debug\URI2061Tempo.pdb
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3 - Estrutura Sequencial\Excercio\URI2061Tempo\URI2061Tempo\obj\Debug\URI2061Tempo.csprojAssemblyReference.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3 - Estrutura Sequencial\Excercio\URI2061Tempo\URI2061Tempo\obj\Debug\URI2061Tempo.csproj.CoreCompileInputs.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3 - Estrutura Sequencial\Excercio\URI2061Tempo\URI2061Tempo\obj\Debug\URI2061Tempo.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3 - Estrutura Sequencial\Excercio\URI2061Tempo\URI2061Tempo\obj\Debug\URI2061Tempo.pdb

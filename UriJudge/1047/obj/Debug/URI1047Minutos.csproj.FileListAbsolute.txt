@@ -1,0 +1,7 @@
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 4\Exercicios\URI1047Minutos\bin\Debug\URI1047Minutos.exe.config
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 4\Exercicios\URI1047Minutos\bin\Debug\URI1047Minutos.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 4\Exercicios\URI1047Minutos\bin\Debug\URI1047Minutos.pdb
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 4\Exercicios\URI1047Minutos\obj\Debug\URI1047Minutos.csprojAssemblyReference.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 4\Exercicios\URI1047Minutos\obj\Debug\URI1047Minutos.csproj.CoreCompileInputs.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 4\Exercicios\URI1047Minutos\obj\Debug\URI1047Minutos.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 4\Exercicios\URI1047Minutos\obj\Debug\URI1047Minutos.pdb

@@ -1,0 +1,7 @@
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 4\Exercicios\URI1042SortSimples\bin\Debug\URI1042SortSimples.exe.config
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 4\Exercicios\URI1042SortSimples\bin\Debug\URI1042SortSimples.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 4\Exercicios\URI1042SortSimples\bin\Debug\URI1042SortSimples.pdb
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 4\Exercicios\URI1042SortSimples\obj\Debug\URI1042SortSimples.csprojAssemblyReference.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 4\Exercicios\URI1042SortSimples\obj\Debug\URI1042SortSimples.csproj.CoreCompileInputs.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 4\Exercicios\URI1042SortSimples\obj\Debug\URI1042SortSimples.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 4\Exercicios\URI1042SortSimples\obj\Debug\URI1042SortSimples.pdb

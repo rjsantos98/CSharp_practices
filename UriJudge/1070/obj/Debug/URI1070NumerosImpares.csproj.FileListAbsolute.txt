@@ -1,0 +1,7 @@
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 4\Exercicios\URI1070NumerosImpares\bin\Debug\URI1070NumerosImpares.exe.config
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 4\Exercicios\URI1070NumerosImpares\bin\Debug\URI1070NumerosImpares.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 4\Exercicios\URI1070NumerosImpares\bin\Debug\URI1070NumerosImpares.pdb
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 4\Exercicios\URI1070NumerosImpares\obj\Debug\URI1070NumerosImpares.csprojAssemblyReference.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 4\Exercicios\URI1070NumerosImpares\obj\Debug\URI1070NumerosImpares.csproj.CoreCompileInputs.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 4\Exercicios\URI1070NumerosImpares\obj\Debug\URI1070NumerosImpares.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 4\Exercicios\URI1070NumerosImpares\obj\Debug\URI1070NumerosImpares.pdb

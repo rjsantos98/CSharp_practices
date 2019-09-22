@@ -1,0 +1,7 @@
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1021NotaseMoe\URI1021NotaseMoe\obj\Debug\URI1021NotaseMoe.csprojAssemblyReference.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1021NotaseMoe\URI1021NotaseMoe\obj\Debug\URI1021NotaseMoe.csproj.CoreCompileInputs.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1021NotaseMoe\URI1021NotaseMoe\bin\Debug\URI1021NotaseMoe.exe.config
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1021NotaseMoe\URI1021NotaseMoe\bin\Debug\URI1021NotaseMoe.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1021NotaseMoe\URI1021NotaseMoe\bin\Debug\URI1021NotaseMoe.pdb
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1021NotaseMoe\URI1021NotaseMoe\obj\Debug\URI1021NotaseMoe.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1021NotaseMoe\URI1021NotaseMoe\obj\Debug\URI1021NotaseMoe.pdb

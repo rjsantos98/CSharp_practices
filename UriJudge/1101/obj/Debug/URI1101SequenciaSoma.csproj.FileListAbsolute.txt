@@ -1,0 +1,7 @@
+C:\Users\Junior Santos\source\repos\URI1101SequenciaSoma\bin\Debug\URI1101SequenciaSoma.exe.config
+C:\Users\Junior Santos\source\repos\URI1101SequenciaSoma\bin\Debug\URI1101SequenciaSoma.exe
+C:\Users\Junior Santos\source\repos\URI1101SequenciaSoma\bin\Debug\URI1101SequenciaSoma.pdb
+C:\Users\Junior Santos\source\repos\URI1101SequenciaSoma\obj\Debug\URI1101SequenciaSoma.csprojAssemblyReference.cache
+C:\Users\Junior Santos\source\repos\URI1101SequenciaSoma\obj\Debug\URI1101SequenciaSoma.csproj.CoreCompileInputs.cache
+C:\Users\Junior Santos\source\repos\URI1101SequenciaSoma\obj\Debug\URI1101SequenciaSoma.exe
+C:\Users\Junior Santos\source\repos\URI1101SequenciaSoma\obj\Debug\URI1101SequenciaSoma.pdb

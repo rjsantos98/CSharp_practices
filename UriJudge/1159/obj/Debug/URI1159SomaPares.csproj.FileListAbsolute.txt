@@ -1,0 +1,7 @@
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1159SomaPares\bin\Debug\URI1159SomaPares.exe.config
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1159SomaPares\bin\Debug\URI1159SomaPares.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1159SomaPares\bin\Debug\URI1159SomaPares.pdb
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1159SomaPares\obj\Debug\URI1159SomaPares.csprojAssemblyReference.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1159SomaPares\obj\Debug\URI1159SomaPares.csproj.CoreCompileInputs.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1159SomaPares\obj\Debug\URI1159SomaPares.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1159SomaPares\obj\Debug\URI1159SomaPares.pdb

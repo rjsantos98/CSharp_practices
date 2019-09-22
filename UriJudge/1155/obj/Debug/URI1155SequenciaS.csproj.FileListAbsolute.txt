@@ -1,0 +1,7 @@
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1155SequenciaS\bin\Debug\URI1155SequenciaS.exe.config
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1155SequenciaS\bin\Debug\URI1155SequenciaS.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1155SequenciaS\bin\Debug\URI1155SequenciaS.pdb
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1155SequenciaS\obj\Debug\URI1155SequenciaS.csprojAssemblyReference.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1155SequenciaS\obj\Debug\URI1155SequenciaS.csproj.CoreCompileInputs.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1155SequenciaS\obj\Debug\URI1155SequenciaS.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1155SequenciaS\obj\Debug\URI1155SequenciaS.pdb

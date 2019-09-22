@@ -1,0 +1,7 @@
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1142PUM\bin\Debug\URI1142PUM.exe.config
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1142PUM\bin\Debug\URI1142PUM.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1142PUM\bin\Debug\URI1142PUM.pdb
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1142PUM\obj\Debug\URI1142PUM.csprojAssemblyReference.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1142PUM\obj\Debug\URI1142PUM.csproj.CoreCompileInputs.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1142PUM\obj\Debug\URI1142PUM.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1142PUM\obj\Debug\URI1142PUM.pdb

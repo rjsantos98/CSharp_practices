@@ -1,0 +1,7 @@
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1009SalarioBonus\URI1009SalarioBonus\bin\Debug\URI1009SalarioBonus.exe.config
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1009SalarioBonus\URI1009SalarioBonus\bin\Debug\URI1009SalarioBonus.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1009SalarioBonus\URI1009SalarioBonus\bin\Debug\URI1009SalarioBonus.pdb
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1009SalarioBonus\URI1009SalarioBonus\obj\Debug\URI1009SalarioBonus.csproj.CoreCompileInputs.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1009SalarioBonus\URI1009SalarioBonus\obj\Debug\URI1009SalarioBonus.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1009SalarioBonus\URI1009SalarioBonus\obj\Debug\URI1009SalarioBonus.pdb
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1009SalarioBonus\URI1009SalarioBonus\obj\Debug\URI1009SalarioBonus.csprojAssemblyReference.cache

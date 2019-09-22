@@ -1,0 +1,6 @@
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1132MULTIPLOS\bin\Debug\URI1132MULTIPLOS.exe.config
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1132MULTIPLOS\bin\Debug\URI1132MULTIPLOS.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1132MULTIPLOS\bin\Debug\URI1132MULTIPLOS.pdb
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1132MULTIPLOS\obj\Debug\URI1132MULTIPLOS.csproj.CoreCompileInputs.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1132MULTIPLOS\obj\Debug\URI1132MULTIPLOS.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1132MULTIPLOS\obj\Debug\URI1132MULTIPLOS.pdb

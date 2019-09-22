@@ -1,0 +1,7 @@
+c:\users\junior santos\source\repos\URI1116Dividindo\bin\Debug\URI1116Dividindo.exe.config
+c:\users\junior santos\source\repos\URI1116Dividindo\bin\Debug\URI1116Dividindo.exe
+c:\users\junior santos\source\repos\URI1116Dividindo\bin\Debug\URI1116Dividindo.pdb
+c:\users\junior santos\source\repos\URI1116Dividindo\obj\Debug\URI1116Dividindo.csprojAssemblyReference.cache
+c:\users\junior santos\source\repos\URI1116Dividindo\obj\Debug\URI1116Dividindo.csproj.CoreCompileInputs.cache
+c:\users\junior santos\source\repos\URI1116Dividindo\obj\Debug\URI1116Dividindo.exe
+c:\users\junior santos\source\repos\URI1116Dividindo\obj\Debug\URI1116Dividindo.pdb

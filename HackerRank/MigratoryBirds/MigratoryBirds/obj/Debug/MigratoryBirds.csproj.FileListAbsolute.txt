@@ -1,0 +1,7 @@
+E:\Dados Pessoais\Desktop\Cursos\HackerRank\Teste11\MigratoryBirds\MigratoryBirds\bin\Debug\MigratoryBirds.exe.config
+E:\Dados Pessoais\Desktop\Cursos\HackerRank\Teste11\MigratoryBirds\MigratoryBirds\bin\Debug\MigratoryBirds.exe
+E:\Dados Pessoais\Desktop\Cursos\HackerRank\Teste11\MigratoryBirds\MigratoryBirds\bin\Debug\MigratoryBirds.pdb
+E:\Dados Pessoais\Desktop\Cursos\HackerRank\Teste11\MigratoryBirds\MigratoryBirds\obj\Debug\MigratoryBirds.csprojAssemblyReference.cache
+E:\Dados Pessoais\Desktop\Cursos\HackerRank\Teste11\MigratoryBirds\MigratoryBirds\obj\Debug\MigratoryBirds.csproj.CoreCompileInputs.cache
+E:\Dados Pessoais\Desktop\Cursos\HackerRank\Teste11\MigratoryBirds\MigratoryBirds\obj\Debug\MigratoryBirds.exe
+E:\Dados Pessoais\Desktop\Cursos\HackerRank\Teste11\MigratoryBirds\MigratoryBirds\obj\Debug\MigratoryBirds.pdb

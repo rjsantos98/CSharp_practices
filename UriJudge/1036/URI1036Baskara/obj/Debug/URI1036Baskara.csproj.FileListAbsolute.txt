@@ -1,0 +1,7 @@
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 4\Exercicios\URI1036Baskara\URI1036Baskara\bin\Debug\URI1036Baskara.exe.config
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 4\Exercicios\URI1036Baskara\URI1036Baskara\bin\Debug\URI1036Baskara.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 4\Exercicios\URI1036Baskara\URI1036Baskara\bin\Debug\URI1036Baskara.pdb
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 4\Exercicios\URI1036Baskara\URI1036Baskara\obj\Debug\URI1036Baskara.csprojAssemblyReference.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 4\Exercicios\URI1036Baskara\URI1036Baskara\obj\Debug\URI1036Baskara.csproj.CoreCompileInputs.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 4\Exercicios\URI1036Baskara\URI1036Baskara\obj\Debug\URI1036Baskara.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 4\Exercicios\URI1036Baskara\URI1036Baskara\obj\Debug\URI1036Baskara.pdb

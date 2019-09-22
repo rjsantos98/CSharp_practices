@@ -1,0 +1,7 @@
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1143QuadradoaoCubo\bin\Debug\URI1143QuadradoaoCubo.exe.config
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1143QuadradoaoCubo\bin\Debug\URI1143QuadradoaoCubo.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1143QuadradoaoCubo\bin\Debug\URI1143QuadradoaoCubo.pdb
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1143QuadradoaoCubo\obj\Debug\URI1143QuadradoaoCubo.csprojAssemblyReference.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1143QuadradoaoCubo\obj\Debug\URI1143QuadradoaoCubo.csproj.CoreCompileInputs.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1143QuadradoaoCubo\obj\Debug\URI1143QuadradoaoCubo.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1143QuadradoaoCubo\obj\Debug\URI1143QuadradoaoCubo.pdb

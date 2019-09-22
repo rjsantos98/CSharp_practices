@@ -1,0 +1,7 @@
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1097Sequencia3\bin\Debug\URI1097Sequencia3.exe.config
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1097Sequencia3\bin\Debug\URI1097Sequencia3.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1097Sequencia3\bin\Debug\URI1097Sequencia3.pdb
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1097Sequencia3\obj\Debug\URI1097Sequencia3.csproj.CoreCompileInputs.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1097Sequencia3\obj\Debug\URI1097Sequencia3.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1097Sequencia3\obj\Debug\URI1097Sequencia3.pdb
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1097Sequencia3\obj\Debug\URI1097Sequencia3.csprojAssemblyReference.cache

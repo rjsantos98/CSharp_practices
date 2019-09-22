@@ -1,0 +1,7 @@
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1010CalculoSimples\URI1010CalculoSimples\bin\Debug\URI1010CalculoSimples.exe.config
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1010CalculoSimples\URI1010CalculoSimples\bin\Debug\URI1010CalculoSimples.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1010CalculoSimples\URI1010CalculoSimples\bin\Debug\URI1010CalculoSimples.pdb
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1010CalculoSimples\URI1010CalculoSimples\obj\Debug\URI1010CalculoSimples.csprojAssemblyReference.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1010CalculoSimples\URI1010CalculoSimples\obj\Debug\URI1010CalculoSimples.csproj.CoreCompileInputs.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1010CalculoSimples\URI1010CalculoSimples\obj\Debug\URI1010CalculoSimples.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1010CalculoSimples\URI1010CalculoSimples\obj\Debug\URI1010CalculoSimples.pdb

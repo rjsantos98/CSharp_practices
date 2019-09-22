@@ -1,0 +1,7 @@
+E:\Dados Pessoais\Desktop\HackerRank\Teste05\PlusMinus\PlusMinus\bin\Debug\PlusMinus.exe.config
+E:\Dados Pessoais\Desktop\HackerRank\Teste05\PlusMinus\PlusMinus\bin\Debug\PlusMinus.exe
+E:\Dados Pessoais\Desktop\HackerRank\Teste05\PlusMinus\PlusMinus\bin\Debug\PlusMinus.pdb
+E:\Dados Pessoais\Desktop\HackerRank\Teste05\PlusMinus\PlusMinus\obj\Debug\PlusMinus.csprojAssemblyReference.cache
+E:\Dados Pessoais\Desktop\HackerRank\Teste05\PlusMinus\PlusMinus\obj\Debug\PlusMinus.csproj.CoreCompileInputs.cache
+E:\Dados Pessoais\Desktop\HackerRank\Teste05\PlusMinus\PlusMinus\obj\Debug\PlusMinus.exe
+E:\Dados Pessoais\Desktop\HackerRank\Teste05\PlusMinus\PlusMinus\obj\Debug\PlusMinus.pdb

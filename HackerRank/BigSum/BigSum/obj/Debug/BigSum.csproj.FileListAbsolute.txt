@@ -1,0 +1,7 @@
+E:\Dados Pessoais\Desktop\HackerRank\Teste03\BigSum\BigSum\bin\Debug\BigSum.exe.config
+E:\Dados Pessoais\Desktop\HackerRank\Teste03\BigSum\BigSum\bin\Debug\BigSum.exe
+E:\Dados Pessoais\Desktop\HackerRank\Teste03\BigSum\BigSum\bin\Debug\BigSum.pdb
+E:\Dados Pessoais\Desktop\HackerRank\Teste03\BigSum\BigSum\obj\Debug\BigSum.csprojAssemblyReference.cache
+E:\Dados Pessoais\Desktop\HackerRank\Teste03\BigSum\BigSum\obj\Debug\BigSum.csproj.CoreCompileInputs.cache
+E:\Dados Pessoais\Desktop\HackerRank\Teste03\BigSum\BigSum\obj\Debug\BigSum.exe
+E:\Dados Pessoais\Desktop\HackerRank\Teste03\BigSum\BigSum\obj\Debug\BigSum.pdb

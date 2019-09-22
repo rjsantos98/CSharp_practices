@@ -1,0 +1,7 @@
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 4\Exercicios\URI1043Triangulo\bin\Debug\URI1043Triangulo.exe.config
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 4\Exercicios\URI1043Triangulo\bin\Debug\URI1043Triangulo.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 4\Exercicios\URI1043Triangulo\bin\Debug\URI1043Triangulo.pdb
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 4\Exercicios\URI1043Triangulo\obj\Debug\URI1043Triangulo.csprojAssemblyReference.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 4\Exercicios\URI1043Triangulo\obj\Debug\URI1043Triangulo.csproj.CoreCompileInputs.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 4\Exercicios\URI1043Triangulo\obj\Debug\URI1043Triangulo.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 4\Exercicios\URI1043Triangulo\obj\Debug\URI1043Triangulo.pdb

@@ -1,0 +1,7 @@
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1017Gasto\URI1017Gasto\bin\Debug\URI1017Gasto.exe.config
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1017Gasto\URI1017Gasto\bin\Debug\URI1017Gasto.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1017Gasto\URI1017Gasto\bin\Debug\URI1017Gasto.pdb
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1017Gasto\URI1017Gasto\obj\Debug\URI1017Gasto.csproj.CoreCompileInputs.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1017Gasto\URI1017Gasto\obj\Debug\URI1017Gasto.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1017Gasto\URI1017Gasto\obj\Debug\URI1017Gasto.pdb
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1017Gasto\URI1017Gasto\obj\Debug\URI1017Gasto.csprojAssemblyReference.cache

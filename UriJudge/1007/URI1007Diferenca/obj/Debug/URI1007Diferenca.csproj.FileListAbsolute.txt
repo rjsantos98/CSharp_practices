@@ -1,0 +1,6 @@
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1007Diferenca\URI1007Diferenca\obj\Debug\URI1007Diferenca.csproj.CoreCompileInputs.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1007Diferenca\URI1007Diferenca\bin\Debug\URI1007Diferenca.exe.config
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1007Diferenca\URI1007Diferenca\bin\Debug\URI1007Diferenca.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1007Diferenca\URI1007Diferenca\bin\Debug\URI1007Diferenca.pdb
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1007Diferenca\URI1007Diferenca\obj\Debug\URI1007Diferenca.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1007Diferenca\URI1007Diferenca\obj\Debug\URI1007Diferenca.pdb

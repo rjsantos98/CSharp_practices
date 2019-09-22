@@ -1,0 +1,7 @@
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1153FatoresSimples\bin\Debug\URI1153FatoresSimples.exe.config
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1153FatoresSimples\bin\Debug\URI1153FatoresSimples.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1153FatoresSimples\bin\Debug\URI1153FatoresSimples.pdb
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1153FatoresSimples\obj\Debug\URI1153FatoresSimples.csproj.CoreCompileInputs.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1153FatoresSimples\obj\Debug\URI1153FatoresSimples.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1153FatoresSimples\obj\Debug\URI1153FatoresSimples.pdb
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1153FatoresSimples\obj\Debug\URI1153FatoresSimples.csprojAssemblyReference.cache

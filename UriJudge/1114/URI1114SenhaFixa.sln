@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "URI1114SenhaFixa", "URI1114SenhaFixa.csproj", "{286A855B-0BC6-46C6-8DB7-EBD7CCE0DFAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{286A855B-0BC6-46C6-8DB7-EBD7CCE0DFAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{286A855B-0BC6-46C6-8DB7-EBD7CCE0DFAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{286A855B-0BC6-46C6-8DB7-EBD7CCE0DFAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{286A855B-0BC6-46C6-8DB7-EBD7CCE0DFAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFEBD964-516A-4B52-8BFD-974CF9E4E021}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 4\Exercicios\URI1035Teste\URI1035Teste\bin\Debug\URI1035Teste.exe.config
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 4\Exercicios\URI1035Teste\URI1035Teste\bin\Debug\URI1035Teste.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 4\Exercicios\URI1035Teste\URI1035Teste\bin\Debug\URI1035Teste.pdb
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 4\Exercicios\URI1035Teste\URI1035Teste\obj\Debug\URI1035Teste.csprojAssemblyReference.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 4\Exercicios\URI1035Teste\URI1035Teste\obj\Debug\URI1035Teste.csproj.CoreCompileInputs.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 4\Exercicios\URI1035Teste\URI1035Teste\obj\Debug\URI1035Teste.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 4\Exercicios\URI1035Teste\URI1035Teste\obj\Debug\URI1035Teste.pdb

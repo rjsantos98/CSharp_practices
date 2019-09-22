@@ -1,0 +1,7 @@
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1015Distancia\URI1015Distancia\bin\Debug\URI1015Distancia.exe.config
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1015Distancia\URI1015Distancia\bin\Debug\URI1015Distancia.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1015Distancia\URI1015Distancia\bin\Debug\URI1015Distancia.pdb
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1015Distancia\URI1015Distancia\obj\Debug\URI1015Distancia.csprojAssemblyReference.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1015Distancia\URI1015Distancia\obj\Debug\URI1015Distancia.csproj.CoreCompileInputs.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1015Distancia\URI1015Distancia\obj\Debug\URI1015Distancia.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1015Distancia\URI1015Distancia\obj\Debug\URI1015Distancia.pdb

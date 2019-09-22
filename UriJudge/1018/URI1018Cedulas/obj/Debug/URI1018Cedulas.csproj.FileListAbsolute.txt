@@ -1,0 +1,7 @@
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1018Cedulas\URI1018Cedulas\bin\Debug\URI1018Cedulas.exe.config
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1018Cedulas\URI1018Cedulas\bin\Debug\URI1018Cedulas.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1018Cedulas\URI1018Cedulas\bin\Debug\URI1018Cedulas.pdb
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1018Cedulas\URI1018Cedulas\obj\Debug\URI1018Cedulas.csprojAssemblyReference.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1018Cedulas\URI1018Cedulas\obj\Debug\URI1018Cedulas.csproj.CoreCompileInputs.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1018Cedulas\URI1018Cedulas\obj\Debug\URI1018Cedulas.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1018Cedulas\URI1018Cedulas\obj\Debug\URI1018Cedulas.pdb

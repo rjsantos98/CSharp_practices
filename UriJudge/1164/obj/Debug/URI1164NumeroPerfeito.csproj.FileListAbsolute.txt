@@ -1,0 +1,7 @@
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Exercicios Extras\URI1164NumeroPerfeito\obj\Debug\URI1164NumeroPerfeito.csprojAssemblyReference.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Exercicios Extras\URI1164NumeroPerfeito\obj\Debug\URI1164NumeroPerfeito.csproj.CoreCompileInputs.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Exercicios Extras\URI1164NumeroPerfeito\bin\Debug\URI1164NumeroPerfeito.exe.config
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Exercicios Extras\URI1164NumeroPerfeito\bin\Debug\URI1164NumeroPerfeito.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Exercicios Extras\URI1164NumeroPerfeito\bin\Debug\URI1164NumeroPerfeito.pdb
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Exercicios Extras\URI1164NumeroPerfeito\obj\Debug\URI1164NumeroPerfeito.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Exercicios Extras\URI1164NumeroPerfeito\obj\Debug\URI1164NumeroPerfeito.pdb

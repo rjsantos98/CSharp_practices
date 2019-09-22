@@ -1,0 +1,7 @@
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1073QUADRADO\bin\Debug\URI1073QUADRADO.exe.config
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1073QUADRADO\bin\Debug\URI1073QUADRADO.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1073QUADRADO\bin\Debug\URI1073QUADRADO.pdb
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1073QUADRADO\obj\Debug\URI1073QUADRADO.csprojAssemblyReference.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1073QUADRADO\obj\Debug\URI1073QUADRADO.csproj.CoreCompileInputs.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1073QUADRADO\obj\Debug\URI1073QUADRADO.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1073QUADRADO\obj\Debug\URI1073QUADRADO.pdb

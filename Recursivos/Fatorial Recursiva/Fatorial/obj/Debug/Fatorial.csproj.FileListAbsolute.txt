@@ -1,0 +1,14 @@
+E:\Dados Pessoais\Desktop\Udemy\Recursivo\Fatorial\Fatorial\bin\Debug\Fatorial.exe.config
+E:\Dados Pessoais\Desktop\Udemy\Recursivo\Fatorial\Fatorial\bin\Debug\Fatorial.exe
+E:\Dados Pessoais\Desktop\Udemy\Recursivo\Fatorial\Fatorial\bin\Debug\Fatorial.pdb
+E:\Dados Pessoais\Desktop\Udemy\Recursivo\Fatorial\Fatorial\obj\Debug\Fatorial.csprojAssemblyReference.cache
+E:\Dados Pessoais\Desktop\Udemy\Recursivo\Fatorial\Fatorial\obj\Debug\Fatorial.csproj.CoreCompileInputs.cache
+E:\Dados Pessoais\Desktop\Udemy\Recursivo\Fatorial\Fatorial\obj\Debug\Fatorial.exe
+E:\Dados Pessoais\Desktop\Udemy\Recursivo\Fatorial\Fatorial\obj\Debug\Fatorial.pdb
+E:\Dados Pessoais\Desktop\Cursos\Recursivos\Fatorial\Fatorial\bin\Debug\Fatorial.exe.config
+E:\Dados Pessoais\Desktop\Cursos\Recursivos\Fatorial\Fatorial\bin\Debug\Fatorial.exe
+E:\Dados Pessoais\Desktop\Cursos\Recursivos\Fatorial\Fatorial\bin\Debug\Fatorial.pdb
+E:\Dados Pessoais\Desktop\Cursos\Recursivos\Fatorial\Fatorial\obj\Debug\Fatorial.csprojAssemblyReference.cache
+E:\Dados Pessoais\Desktop\Cursos\Recursivos\Fatorial\Fatorial\obj\Debug\Fatorial.csproj.CoreCompileInputs.cache
+E:\Dados Pessoais\Desktop\Cursos\Recursivos\Fatorial\Fatorial\obj\Debug\Fatorial.exe
+E:\Dados Pessoais\Desktop\Cursos\Recursivos\Fatorial\Fatorial\obj\Debug\Fatorial.pdb

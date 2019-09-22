@@ -1,0 +1,7 @@
+C:\Users\Junior Santos\source\repos\URI1135Combustivel\bin\Debug\URI1135Combustivel.exe.config
+C:\Users\Junior Santos\source\repos\URI1135Combustivel\bin\Debug\URI1135Combustivel.exe
+C:\Users\Junior Santos\source\repos\URI1135Combustivel\bin\Debug\URI1135Combustivel.pdb
+C:\Users\Junior Santos\source\repos\URI1135Combustivel\obj\Debug\URI1135Combustivel.csprojAssemblyReference.cache
+C:\Users\Junior Santos\source\repos\URI1135Combustivel\obj\Debug\URI1135Combustivel.csproj.CoreCompileInputs.cache
+C:\Users\Junior Santos\source\repos\URI1135Combustivel\obj\Debug\URI1135Combustivel.exe
+C:\Users\Junior Santos\source\repos\URI1135Combustivel\obj\Debug\URI1135Combustivel.pdb

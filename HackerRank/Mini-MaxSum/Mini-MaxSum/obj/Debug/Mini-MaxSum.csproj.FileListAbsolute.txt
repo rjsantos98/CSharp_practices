@@ -1,0 +1,7 @@
+E:\Dados Pessoais\Desktop\HackerRank\Teste07\Mini-MaxSum\Mini-MaxSum\bin\Debug\Mini-MaxSum.exe.config
+E:\Dados Pessoais\Desktop\HackerRank\Teste07\Mini-MaxSum\Mini-MaxSum\bin\Debug\Mini-MaxSum.exe
+E:\Dados Pessoais\Desktop\HackerRank\Teste07\Mini-MaxSum\Mini-MaxSum\bin\Debug\Mini-MaxSum.pdb
+E:\Dados Pessoais\Desktop\HackerRank\Teste07\Mini-MaxSum\Mini-MaxSum\obj\Debug\Mini-MaxSum.csproj.CoreCompileInputs.cache
+E:\Dados Pessoais\Desktop\HackerRank\Teste07\Mini-MaxSum\Mini-MaxSum\obj\Debug\Mini-MaxSum.exe
+E:\Dados Pessoais\Desktop\HackerRank\Teste07\Mini-MaxSum\Mini-MaxSum\obj\Debug\Mini-MaxSum.pdb
+E:\Dados Pessoais\Desktop\HackerRank\Teste07\Mini-MaxSum\Mini-MaxSum\obj\Debug\Mini-MaxSum.csprojAssemblyReference.cache

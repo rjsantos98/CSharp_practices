@@ -1,0 +1,6 @@
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1019CalculandoTempo\URI1019CalculandoTempo\bin\Debug\URI1019CalculandoTempo.exe.config
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1019CalculandoTempo\URI1019CalculandoTempo\bin\Debug\URI1019CalculandoTempo.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1019CalculandoTempo\URI1019CalculandoTempo\bin\Debug\URI1019CalculandoTempo.pdb
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1019CalculandoTempo\URI1019CalculandoTempo\obj\Debug\URI1019CalculandoTempo.csproj.CoreCompileInputs.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1019CalculandoTempo\URI1019CalculandoTempo\obj\Debug\URI1019CalculandoTempo.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1019CalculandoTempo\URI1019CalculandoTempo\obj\Debug\URI1019CalculandoTempo.pdb

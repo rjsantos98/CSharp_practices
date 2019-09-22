@@ -1,0 +1,7 @@
+C:\Users\Junior Santos\source\repos\URI1060Positivos\bin\Debug\URI1060Positivos.exe.config
+C:\Users\Junior Santos\source\repos\URI1060Positivos\bin\Debug\URI1060Positivos.exe
+C:\Users\Junior Santos\source\repos\URI1060Positivos\bin\Debug\URI1060Positivos.pdb
+C:\Users\Junior Santos\source\repos\URI1060Positivos\obj\Debug\URI1060Positivos.csprojAssemblyReference.cache
+C:\Users\Junior Santos\source\repos\URI1060Positivos\obj\Debug\URI1060Positivos.csproj.CoreCompileInputs.cache
+C:\Users\Junior Santos\source\repos\URI1060Positivos\obj\Debug\URI1060Positivos.exe
+C:\Users\Junior Santos\source\repos\URI1060Positivos\obj\Debug\URI1060Positivos.pdb

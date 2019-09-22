@@ -1,0 +1,7 @@
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1113EstruturaEnquanto\bin\Debug\URI1113EstruturaEnquanto.exe.config
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1113EstruturaEnquanto\bin\Debug\URI1113EstruturaEnquanto.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1113EstruturaEnquanto\bin\Debug\URI1113EstruturaEnquanto.pdb
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1113EstruturaEnquanto\obj\Debug\URI1113EstruturaEnquanto.csprojAssemblyReference.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1113EstruturaEnquanto\obj\Debug\URI1113EstruturaEnquanto.csproj.CoreCompileInputs.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1113EstruturaEnquanto\obj\Debug\URI1113EstruturaEnquanto.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1113EstruturaEnquanto\obj\Debug\URI1113EstruturaEnquanto.pdb

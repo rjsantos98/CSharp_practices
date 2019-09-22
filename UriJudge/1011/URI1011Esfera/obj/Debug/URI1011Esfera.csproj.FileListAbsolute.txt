@@ -1,0 +1,7 @@
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1011Esfera\URI1011Esfera\bin\Debug\URI1011Esfera.exe.config
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1011Esfera\URI1011Esfera\bin\Debug\URI1011Esfera.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1011Esfera\URI1011Esfera\bin\Debug\URI1011Esfera.pdb
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1011Esfera\URI1011Esfera\obj\Debug\URI1011Esfera.csprojAssemblyReference.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1011Esfera\URI1011Esfera\obj\Debug\URI1011Esfera.csproj.CoreCompileInputs.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1011Esfera\URI1011Esfera\obj\Debug\URI1011Esfera.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1011Esfera\URI1011Esfera\obj\Debug\URI1011Esfera.pdb

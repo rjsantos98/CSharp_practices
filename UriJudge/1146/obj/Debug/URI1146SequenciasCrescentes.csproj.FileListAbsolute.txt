@@ -1,0 +1,7 @@
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Exercicios Extras\URI1146SequenciasCrescentes\bin\Debug\URI1146SequenciasCrescentes.exe.config
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Exercicios Extras\URI1146SequenciasCrescentes\bin\Debug\URI1146SequenciasCrescentes.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Exercicios Extras\URI1146SequenciasCrescentes\bin\Debug\URI1146SequenciasCrescentes.pdb
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Exercicios Extras\URI1146SequenciasCrescentes\obj\Debug\URI1146SequenciasCrescentes.csprojAssemblyReference.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Exercicios Extras\URI1146SequenciasCrescentes\obj\Debug\URI1146SequenciasCrescentes.csproj.CoreCompileInputs.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Exercicios Extras\URI1146SequenciasCrescentes\obj\Debug\URI1146SequenciasCrescentes.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Exercicios Extras\URI1146SequenciasCrescentes\obj\Debug\URI1146SequenciasCrescentes.pdb

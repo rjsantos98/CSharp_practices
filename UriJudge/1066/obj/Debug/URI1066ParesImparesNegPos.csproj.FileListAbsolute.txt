@@ -1,0 +1,7 @@
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 4\Exercicios\URI1066ParesImparesNegPos\bin\Debug\URI1066ParesImparesNegPos.exe.config
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 4\Exercicios\URI1066ParesImparesNegPos\bin\Debug\URI1066ParesImparesNegPos.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 4\Exercicios\URI1066ParesImparesNegPos\bin\Debug\URI1066ParesImparesNegPos.pdb
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 4\Exercicios\URI1066ParesImparesNegPos\obj\Debug\URI1066ParesImparesNegPos.csprojAssemblyReference.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 4\Exercicios\URI1066ParesImparesNegPos\obj\Debug\URI1066ParesImparesNegPos.csproj.CoreCompileInputs.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 4\Exercicios\URI1066ParesImparesNegPos\obj\Debug\URI1066ParesImparesNegPos.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 4\Exercicios\URI1066ParesImparesNegPos\obj\Debug\URI1066ParesImparesNegPos.pdb

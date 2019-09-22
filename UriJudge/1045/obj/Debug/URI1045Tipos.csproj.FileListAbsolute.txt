@@ -1,0 +1,7 @@
+C:\Users\Junior Santos\source\repos\URI1045Tipos\bin\Debug\URI1045Tipos.exe.config
+C:\Users\Junior Santos\source\repos\URI1045Tipos\bin\Debug\URI1045Tipos.exe
+C:\Users\Junior Santos\source\repos\URI1045Tipos\bin\Debug\URI1045Tipos.pdb
+C:\Users\Junior Santos\source\repos\URI1045Tipos\obj\Debug\URI1045Tipos.csprojAssemblyReference.cache
+C:\Users\Junior Santos\source\repos\URI1045Tipos\obj\Debug\URI1045Tipos.csproj.CoreCompileInputs.cache
+C:\Users\Junior Santos\source\repos\URI1045Tipos\obj\Debug\URI1045Tipos.exe
+C:\Users\Junior Santos\source\repos\URI1045Tipos\obj\Debug\URI1045Tipos.pdb

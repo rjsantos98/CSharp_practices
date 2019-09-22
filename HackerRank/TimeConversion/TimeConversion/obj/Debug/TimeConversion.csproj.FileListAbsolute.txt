@@ -1,0 +1,7 @@
+E:\Dados Pessoais\Desktop\HackerRank\Teste09\TimeConversion\TimeConversion\bin\Debug\TimeConversion.exe.config
+E:\Dados Pessoais\Desktop\HackerRank\Teste09\TimeConversion\TimeConversion\bin\Debug\TimeConversion.exe
+E:\Dados Pessoais\Desktop\HackerRank\Teste09\TimeConversion\TimeConversion\bin\Debug\TimeConversion.pdb
+E:\Dados Pessoais\Desktop\HackerRank\Teste09\TimeConversion\TimeConversion\obj\Debug\TimeConversion.csproj.CoreCompileInputs.cache
+E:\Dados Pessoais\Desktop\HackerRank\Teste09\TimeConversion\TimeConversion\obj\Debug\TimeConversion.exe
+E:\Dados Pessoais\Desktop\HackerRank\Teste09\TimeConversion\TimeConversion\obj\Debug\TimeConversion.pdb
+E:\Dados Pessoais\Desktop\HackerRank\Teste09\TimeConversion\TimeConversion\obj\Debug\TimeConversion.csprojAssemblyReference.cache

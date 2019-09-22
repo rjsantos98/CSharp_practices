@@ -1,0 +1,7 @@
+C:\Users\Junior Santos\source\repos\URI1044Multiplos\bin\Debug\URI1044Multiplos.exe.config
+C:\Users\Junior Santos\source\repos\URI1044Multiplos\bin\Debug\URI1044Multiplos.exe
+C:\Users\Junior Santos\source\repos\URI1044Multiplos\bin\Debug\URI1044Multiplos.pdb
+C:\Users\Junior Santos\source\repos\URI1044Multiplos\obj\Debug\URI1044Multiplos.csprojAssemblyReference.cache
+C:\Users\Junior Santos\source\repos\URI1044Multiplos\obj\Debug\URI1044Multiplos.csproj.CoreCompileInputs.cache
+C:\Users\Junior Santos\source\repos\URI1044Multiplos\obj\Debug\URI1044Multiplos.exe
+C:\Users\Junior Santos\source\repos\URI1044Multiplos\obj\Debug\URI1044Multiplos.pdb

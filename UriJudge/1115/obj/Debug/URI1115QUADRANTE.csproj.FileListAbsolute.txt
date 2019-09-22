@@ -1,0 +1,6 @@
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1115QUADRANTE\bin\Debug\URI1115QUADRANTE.exe.config
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1115QUADRANTE\bin\Debug\URI1115QUADRANTE.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1115QUADRANTE\bin\Debug\URI1115QUADRANTE.pdb
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1115QUADRANTE\obj\Debug\URI1115QUADRANTE.csproj.CoreCompileInputs.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1115QUADRANTE\obj\Debug\URI1115QUADRANTE.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1115QUADRANTE\obj\Debug\URI1115QUADRANTE.pdb

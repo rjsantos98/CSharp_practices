@@ -1,0 +1,7 @@
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1165NumerosPrimos\obj\Debug\URI1165NumerosPrimos.csprojAssemblyReference.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1165NumerosPrimos\obj\Debug\URI1165NumerosPrimos.csproj.CoreCompileInputs.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1165NumerosPrimos\bin\Debug\URI1165NumerosPrimos.exe.config
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1165NumerosPrimos\bin\Debug\URI1165NumerosPrimos.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1165NumerosPrimos\bin\Debug\URI1165NumerosPrimos.pdb
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1165NumerosPrimos\obj\Debug\URI1165NumerosPrimos.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 5\Exercicios\URI1165NumerosPrimos\obj\Debug\URI1165NumerosPrimos.pdb

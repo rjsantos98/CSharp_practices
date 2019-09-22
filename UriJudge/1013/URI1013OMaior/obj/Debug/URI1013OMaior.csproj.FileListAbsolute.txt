@@ -1,0 +1,7 @@
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1013OMaior\URI1013OMaior\bin\Debug\URI1013OMaior.exe.config
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1013OMaior\URI1013OMaior\bin\Debug\URI1013OMaior.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1013OMaior\URI1013OMaior\bin\Debug\URI1013OMaior.pdb
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1013OMaior\URI1013OMaior\obj\Debug\URI1013OMaior.csproj.CoreCompileInputs.cache
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1013OMaior\URI1013OMaior\obj\Debug\URI1013OMaior.exe
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1013OMaior\URI1013OMaior\obj\Debug\URI1013OMaior.pdb
+E:\Dados Pessoais\Desktop\Udemy\Logica de Programação\Capitulo 3\Excercio 2\URI1013OMaior\URI1013OMaior\obj\Debug\URI1013OMaior.csprojAssemblyReference.cache

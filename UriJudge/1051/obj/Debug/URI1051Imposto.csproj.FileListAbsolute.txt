@@ -1,0 +1,7 @@
+c:\users\junior santos\source\repos\URI1051Imposto\bin\Debug\URI1051Imposto.exe.config
+c:\users\junior santos\source\repos\URI1051Imposto\bin\Debug\URI1051Imposto.exe
+c:\users\junior santos\source\repos\URI1051Imposto\bin\Debug\URI1051Imposto.pdb
+c:\users\junior santos\source\repos\URI1051Imposto\obj\Debug\URI1051Imposto.csprojAssemblyReference.cache
+c:\users\junior santos\source\repos\URI1051Imposto\obj\Debug\URI1051Imposto.csproj.CoreCompileInputs.cache
+c:\users\junior santos\source\repos\URI1051Imposto\obj\Debug\URI1051Imposto.exe
+c:\users\junior santos\source\repos\URI1051Imposto\obj\Debug\URI1051Imposto.pdb

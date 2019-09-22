@@ -1,0 +1,6 @@
+C:\Users\Junior Santos\source\repos\URI1064PositivoseMedias\bin\Debug\URI1064PositivoseMedias.exe.config
+C:\Users\Junior Santos\source\repos\URI1064PositivoseMedias\bin\Debug\URI1064PositivoseMedias.exe
+C:\Users\Junior Santos\source\repos\URI1064PositivoseMedias\bin\Debug\URI1064PositivoseMedias.pdb
+C:\Users\Junior Santos\source\repos\URI1064PositivoseMedias\obj\Debug\URI1064PositivoseMedias.csproj.CoreCompileInputs.cache
+C:\Users\Junior Santos\source\repos\URI1064PositivoseMedias\obj\Debug\URI1064PositivoseMedias.exe
+C:\Users\Junior Santos\source\repos\URI1064PositivoseMedias\obj\Debug\URI1064PositivoseMedias.pdb
