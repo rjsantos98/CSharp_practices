@@ -1,0 +1,7 @@
+E:\Dados Pessoais\Desktop\Udemy\Recursivo\Primos\Primos\bin\Debug\Primos.exe.config
+E:\Dados Pessoais\Desktop\Udemy\Recursivo\Primos\Primos\bin\Debug\Primos.exe
+E:\Dados Pessoais\Desktop\Udemy\Recursivo\Primos\Primos\bin\Debug\Primos.pdb
+E:\Dados Pessoais\Desktop\Udemy\Recursivo\Primos\Primos\obj\Debug\Primos.csprojAssemblyReference.cache
+E:\Dados Pessoais\Desktop\Udemy\Recursivo\Primos\Primos\obj\Debug\Primos.csproj.CoreCompileInputs.cache
+E:\Dados Pessoais\Desktop\Udemy\Recursivo\Primos\Primos\obj\Debug\Primos.exe
+E:\Dados Pessoais\Desktop\Udemy\Recursivo\Primos\Primos\obj\Debug\Primos.pdb

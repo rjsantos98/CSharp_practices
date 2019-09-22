@@ -1,0 +1,14 @@
+E:\Dados Pessoais\Desktop\Udemy\Recursivo\Primos2\Primos2\bin\Debug\Primos2.exe.config
+E:\Dados Pessoais\Desktop\Udemy\Recursivo\Primos2\Primos2\bin\Debug\Primos2.exe
+E:\Dados Pessoais\Desktop\Udemy\Recursivo\Primos2\Primos2\bin\Debug\Primos2.pdb
+E:\Dados Pessoais\Desktop\Udemy\Recursivo\Primos2\Primos2\obj\Debug\Primos2.csprojAssemblyReference.cache
+E:\Dados Pessoais\Desktop\Udemy\Recursivo\Primos2\Primos2\obj\Debug\Primos2.csproj.CoreCompileInputs.cache
+E:\Dados Pessoais\Desktop\Udemy\Recursivo\Primos2\Primos2\obj\Debug\Primos2.exe
+E:\Dados Pessoais\Desktop\Udemy\Recursivo\Primos2\Primos2\obj\Debug\Primos2.pdb
+E:\Dados Pessoais\Desktop\Cursos\Recursivos\Primos2\Primos2\bin\Debug\Primos2.exe.config
+E:\Dados Pessoais\Desktop\Cursos\Recursivos\Primos2\Primos2\bin\Debug\Primos2.exe
+E:\Dados Pessoais\Desktop\Cursos\Recursivos\Primos2\Primos2\bin\Debug\Primos2.pdb
+E:\Dados Pessoais\Desktop\Cursos\Recursivos\Primos2\Primos2\obj\Debug\Primos2.csprojAssemblyReference.cache
+E:\Dados Pessoais\Desktop\Cursos\Recursivos\Primos2\Primos2\obj\Debug\Primos2.csproj.CoreCompileInputs.cache
+E:\Dados Pessoais\Desktop\Cursos\Recursivos\Primos2\Primos2\obj\Debug\Primos2.exe
+E:\Dados Pessoais\Desktop\Cursos\Recursivos\Primos2\Primos2\obj\Debug\Primos2.pdb
